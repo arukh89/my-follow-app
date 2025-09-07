@@ -1,127 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Follow @yokozoeth</title>
-    
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #1DA1F2 0%, #0d8bd9 100%);
-            min-height: 100vh;
-            color: white;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
-
-        .container {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            padding: 40px;
-            text-align: center;
-            max-width: 400px;
-            width: 100%;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
-        }
-
-        .avatar {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            background: #FF6B6B;
-            margin: 0 auto 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 40px;
-            font-weight: bold;
-            color: white;
-        }
-
-        .username {
-            font-size: 28px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-
-        .handle {
-            font-size: 16px;
-            opacity: 0.9;
-            margin-bottom: 20px;
-        }
-
-        .description {
-            font-size: 14px;
-            line-height: 1.5;
-            margin-bottom: 30px;
-        }
-
-        .follow-button {
-            background: #1DA1F2;
-            color: white;
-            border: none;
-            border-radius: 50px;
-            padding: 15px 30px;
-            font-size: 18px;
-            font-weight: bold;
-            cursor: pointer;
-            text-decoration: none;
-            display: inline-block;
-            transition: all 0.3s ease;
-        }
-
-        .follow-button:hover {
-            background: #0d8bd9;
-            transform: translateY(-2px);
-        }
-
-        .powered-by {
-            margin-top: 20px;
-            font-size: 12px;
-            opacity: 0.8;
-        }
-    </style>
+    <title>Follow Yokozoeth</title>
 </head>
-<body>
-    <div class="container">
-        <div class="avatar">Y</div>
-        <div class="username">Yokozoeth</div>
-        <div class="handle">@yokozoeth</div>
-        <div class="description">
-            🚀 Building amazing things on the web<br>
-            💡 Sharing insights about tech and innovation<br>
-            🌟 Join the community!
-        </div>
-        <a href="https://x.com/yokozoeth?t=c6QKwS7QZvHzxnvbBlGpJw&s=09" 
-           target="_blank" 
-           class="follow-button">
-            Follow on 𝕏
-        </a>
-        <div class="powered-by">⚡ Mini App</div>
-    </div>
-
-    <script>
-        // Simple click tracking
-        document.querySelector('.follow-button').addEventListener('click', function() {
-            console.log('Follow button clicked!');
-        });
-        
-        // Add debugging for Mini App
-        console.log('Mini App loaded successfully!');
-        
-        // Check if running in Farcaster
-        if (window.parent !== window) {
-            console.log('Running inside Farcaster Mini App');
-        }
-    </script>
+<body style="background: #1DA1F2; color: white; font-family: Arial; text-align: center; padding: 50px;">
+    <h1>Follow Yokozoeth</h1>
+    <p>Building amazing things on the web</p>
+    <a href="https://x.com/yokozoeth" style="background: white; color: #1DA1F2; padding: 15px 30px; text-decoration: none; border-radius: 25px; display: inline-block; margin-top: 20px;">Follow on X</a>
 </body>
 </html>
