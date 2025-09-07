@@ -6,13 +6,8 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "Follow @yokozoeth",
-    "iconUrl": "https://my-follow-app.vercel.app/icon.png",
-    "homeUrl": "https://my-follow-app.vercel.app/",
-    "splashImageUrl": "https://my-follow-app.vercel.app/splash.png",
-    "splashBackgroundColor": "#1DA1F2",
-    "subtitle": "Quick way to follow on Twitter/X",
-    "description": "Quick way to follow yokozoeth on Twitter/X for tech insights and updates",
-    "primaryCategory": "social"
+    "name": "Follow Yokozoeth",
+    "iconUrl": "https://via.placeholder.com/1024x1024/1DA1F2/FFFFFF?text=Y",
+    "homeUrl": "https://my-follow-app.vercel.app"
   }
 }
