@@ -2,17 +2,17 @@
   "version": "1.0.0",
   "name": "Follow @yokozoeth",
   "description": "Quick way to follow @yokozoeth on Twitter/X",
-  "icon": "https://CHANGE-THIS-URL.vercel.app/icon.png",
-  "splashImage": "https://CHANGE-THIS-URL.vercel.app/splash.png",
+  "icon": "https://my-follow-app.vercel.app//icon.png",
+  "splashImage": "https://my-follow-app.vercel.app//splash.png",
   "splashBackgroundColor": "#1DA1F2",
-  "homeUrl": "https://CHANGE-THIS-URL.vercel.app",
+  "homeUrl": "https://my-follow-app.vercel.app/",
   "author": {
     "name": "Your Name Here",
     "url": "https://your-website.com",
     "fid": 0
   },
-  "embedImage": "https://CHANGE-THIS-URL.vercel.app/embed-image.png",
-  "embedUrl": "https://CHANGE-THIS-URL.vercel.app",
+  "embedImage": "https://my-follow-app.vercel.app//embed-image.png",
+  "embedUrl": "https://my-follow-app.vercel.app/",
   "button": {
     "title": "Follow @yokozoeth",
     "action": {
