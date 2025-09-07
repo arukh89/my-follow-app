@@ -3,11 +3,12 @@
     "header": "eyJmaWQiOjI1MDcwNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDE1MzY1NzE0NWVBMmQ1Nzk2OTFhMTQ2YzdFYTRDRkFFMzdEMjdGYWUifQ",
     "payload": "eyJkb21haW4iOiJteS1mb2xsb3ctYXBwLnZlcmNlbC5hcHAifQ",
     "signature": "MHhkY2UxMWM4ZGVmOWRmNmYyNmY2ZTJiNDk3NTEwNWU4MWY3Yjg5ZmI4NmM4MDZiNDc2MTY3YWI1NDM1MjdkMzI0NDJiYzU4MzBmNGI1ZTdhMWRhOTRkYTVhZGMwYjMwNWQyOGI2YmI5NGUzYmJlN2M1ZmZkY2U4NTE4NjU5MWY5OTFj"
-  },
+  {
   "miniapp": {
     "version": "1",
-    "name": "Follow Yokozoeth",
+    "name": "My Follow App",
     "iconUrl": "https://via.placeholder.com/1024x1024/1DA1F2/FFFFFF?text=Y",
     "homeUrl": "https://my-follow-app.vercel.app"
   }
+}
 }
