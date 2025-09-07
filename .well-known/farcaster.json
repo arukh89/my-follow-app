@@ -1,28 +1,18 @@
 {
-  "version": "1.0.0",
-  "name": "Follow @yokozoeth",
-  "description": "Quick way to follow @yokozoeth on Twitter/X",
-  "icon": "https://my-follow-app.vercel.app//icon.png",
-  "splashImage": "https://my-follow-app.vercel.app//splash.png",
-  "splashBackgroundColor": "#1DA1F2",
-  "homeUrl": "https://my-follow-app.vercel.app/",
-  "author": {
-    "name": "ukhy89",
-    "url": "https://my-follow-app.vercel.app/",
-    "fid": 250704
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI1MDcwNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDE1MzY1NzE0NWVBMmQ1Nzk2OTFhMTQ2YzdFYTRDRkFFMzdEMjdGYWUifQ",
+    "payload": "eyJkb21haW4iOiJteS1mb2xsb3ctYXBwLnZlcmNlbC5hcHAifQ",
+    "signature": "MHhkY2UxMWM4ZGVmOWRmNmYyNmY2ZTJiNDk3NTEwNWU4MWY3Yjg5ZmI4NmM4MDZiNDc2MTY3YWI1NDM1MjdkMzI0NDJiYzU4MzBmNGI1ZTdhMWRhOTRkYTVhZGMwYjMwNWQyOGI2YmI5NGUzYmJlN2M1ZmZkY2U4NTE4NjU5MWY5OTFj"
   },
-  "embedImage": "https://my-follow-app.vercel.app//embed-image.png",
-  "embedUrl": "https://my-follow-app.vercel.app/",
-  "button": {
-    "title": "Follow @yokozoeth",
-    "action": {
-      "type": "link", 
-      "url": "https://x.com/yokozoeth?t=c6QKwS7QZvHzxnvbBlGpJw&s=09"
-    }
-  },
-  "permissions": [
-    "user:read",
-    "external:open"
-  ],
-  "categories": ["social"]
+  "miniapp": {
+    "version": "1",
+    "name": "Follow @yokozoeth",
+    "iconUrl": "https://my-follow-app.vercel.app/icon.png",
+    "homeUrl": "https://my-follow-app.vercel.app/",
+    "splashImageUrl": "https://my-follow-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#1DA1F2",
+    "subtitle": "Quick way to follow on Twitter/X",
+    "description": "Quick way to follow @yokozoeth on Twitter/X for tech insights and updates",
+    "primaryCategory": "social"
+  }
 }
