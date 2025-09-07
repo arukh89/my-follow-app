@@ -1,0 +1,15 @@
+{
+  "frame": {
+    "name": "follow app",
+    "version": "1",
+    "iconUrl": "https://my-follow-app-v2.vercel.app/icon.png",
+    "homeUrl": "https://my-follow-app-v2.vercel.app",
+    "imageUrl": "https://my-follow-app-v2.vercel.app/image.png",
+    "splashImageUrl": "https://my-follow-app-v2.vercel.app/splash.png",
+    "splashBackgroundColor": "#6200ea",
+    "webhookUrl": "https://my-follow-app-v2.vercel.app/api/webhook",
+    "subtitle": "com",
+    "primaryCategory": "social",
+    "description": "just follow "
+  }
+}
